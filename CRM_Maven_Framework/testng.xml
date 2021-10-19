@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.crm.contacttest.SampleTest"/>
       <class name="com.crm.contacttest.ContactTest"/>
       <class name="com.crm.orgtest.OrgTest"/>
     </classes>

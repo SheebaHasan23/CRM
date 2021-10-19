@@ -9,4 +9,8 @@ public class SampleTest {
 		System.out.println(URL);
 	}
 
+	@Test
+	public void editTest() {
+		System.out.println("test edited");
+	}
 }
